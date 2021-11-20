@@ -2,8 +2,13 @@
 
 # Academic Projects
 
-## The Odin Project
+## Web Development
 - [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker)
+- [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe)
+- [Basic Calculator](https://github.com/VincentZ-42/BasicCalculator)
+- [Etch-A-Sketch](https://github.com/VincentZ-42/Etch-A-Sketch)
+- [RPSLS](https://github.com/VincentZ-42/RPSLS)
+- [COVID-19 Survey Form](https://codepen.io/VBlitZen/full/WNvLPNw)
 
 ## 42 Silicon Valley
 - [Standard Library in C](https://github.com/VincentZ-42/C-Standard-Libary-Libft-)
