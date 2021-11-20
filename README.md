@@ -2,8 +2,9 @@
 
 # Academic Projects
 
-| Web development | Projects in C |
+| Web development | Projects in C | Other |
 | --- | --- | --- |
+| Test | 1 | 234 |
 
 ## Full Stack Projects
 - [Exercise Tracker](https://github.com/VincentZ-42/Simple_Exercise_Tracker)
