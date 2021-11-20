@@ -4,8 +4,12 @@
 
 | Web development | Projects in C | Other |
 | --- | --- | --- |
-| Book tracker| Library | Epic Test Bot |
-| Tic Tac Toe| Tetris Map | SProcket feature |
+| [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker) | [functional clone of ls command](https://github.com/VincentZ-42/ft_ls) | [Custom Onshape feature: Sprocket](https://github.com/VincentZ-42/Sprocket-Design-with-Onshape-FeatureScript) |
+| [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe) | [program_clone of printf function](https://github.com/VincentZ-42/ft_printf) | [PaintBot](https://github.com/VincentZ-42/PaintBot) |
+| [Basic Calculator](https://github.com/VincentZ-42/BasicCalculator) | [Tetris Map](https://github.com/VincentZ-42/TetrisMap-Fillit-) | |
+| [Etch-A-Sketch](https://github.com/VincentZ-42/Etch-A-Sketch) | [Get_Next_Line](https://github.com/VincentZ-42/get_next_line) | |
+| [Rock Paper Scissors Lizard Spock](https://github.com/VincentZ-42/RPSLS) | [Standard Library in C](https://github.com/VincentZ-42/C-Standard-Libary-Libft-) | |
+| [COVID-19 Survey Form](https://codepen.io/VBlitZen/full/WNvLPNw) | | |
 
 
 ## Full Stack Projects
