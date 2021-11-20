@@ -2,6 +2,9 @@
 
 # Academic Projects
 
+| Web development | Projects in C |
+| --- | --- | --- |
+
 ## Full Stack Projects
 - [Exercise Tracker](https://github.com/VincentZ-42/Simple_Exercise_Tracker)
 - [Employee Data](https://github.com/VincentZ-42/EmployeeData_REST_API)
