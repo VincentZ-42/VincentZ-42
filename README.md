@@ -4,19 +4,20 @@
 
 | Web development | Projects in C | Other |
 | --- | --- | --- |
-| Test | 1 | 234 |
+| Test | - [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker)
+- [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe)
+- [Basic Calculator](https://github.com/VincentZ-42/BasicCalculator)
+- [Etch-A-Sketch](https://github.com/VincentZ-42/Etch-A-Sketch)
+- [Rock Paper Scissors Lizard Spock](https://github.com/VincentZ-42/RPSLS)
+- [COVID-19 Survey Form](https://codepen.io/VBlitZen/full/WNvLPNw)
+| 234 |
 
 ## Full Stack Projects
 - [Exercise Tracker](https://github.com/VincentZ-42/Simple_Exercise_Tracker)
 - [Employee Data](https://github.com/VincentZ-42/EmployeeData_REST_API)
 
 ## Web Development
-- [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker)
-- [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe)
-- [Basic Calculator](https://github.com/VincentZ-42/BasicCalculator)
-- [Etch-A-Sketch](https://github.com/VincentZ-42/Etch-A-Sketch)
-- [Rock Paper Scissors Lizard Spock](https://github.com/VincentZ-42/RPSLS)
-- [COVID-19 Survey Form](https://codepen.io/VBlitZen/full/WNvLPNw)
+
 
 ## Projects in C
 - [functional clone of ls command](https://github.com/VincentZ-42/ft_ls)
