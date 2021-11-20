@@ -2,7 +2,16 @@
 
 # Academic Projects
 
-| Web development | Projects in C | Other |
+| Name | Short Description | Demo link |
+| --- | --- | --- |
+| [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker) | | |
+| [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe) | | |
+| [Basic Calculator](https://github.com/VincentZ-42/BasicCalculator) | | |
+| [Etch-A-Sketch](https://github.com/VincentZ-42/Etch-A-Sketch) |  | |
+| [Rock Paper Scissors Lizard Spock](https://github.com/VincentZ-42/RPSLS) |  | |
+| [COVID-19 Survey Form](https://codepen.io/VBlitZen/full/WNvLPNw) | | |
+
+| Name | Short Description | Demo link |
 | --- | --- | --- |
 | [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker) | [functional clone of ls command](https://github.com/VincentZ-42/ft_ls) | [Custom Onshape feature: Sprocket](https://github.com/VincentZ-42/Sprocket-Design-with-Onshape-FeatureScript) |
 | [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe) | [program_clone of printf function](https://github.com/VincentZ-42/ft_printf) | [PaintBot](https://github.com/VincentZ-42/PaintBot) |
@@ -10,7 +19,6 @@
 | [Etch-A-Sketch](https://github.com/VincentZ-42/Etch-A-Sketch) | [Get_Next_Line](https://github.com/VincentZ-42/get_next_line) | |
 | [Rock Paper Scissors Lizard Spock](https://github.com/VincentZ-42/RPSLS) | [Standard Library in C](https://github.com/VincentZ-42/C-Standard-Libary-Libft-) | |
 | [COVID-19 Survey Form](https://codepen.io/VBlitZen/full/WNvLPNw) | | |
-
 
 ## Full Stack Projects
 - [Exercise Tracker](https://github.com/VincentZ-42/Simple_Exercise_Tracker)
