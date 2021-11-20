@@ -4,7 +4,8 @@
 
 | Web development | Projects in C | Other |
 | --- | --- | --- |
-| Test | - [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker)
+| [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker) | - [functional clone of ls command](https://github.com/VincentZ-42/ft_ls) | |
+
 - [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe)
 - [Basic Calculator](https://github.com/VincentZ-42/BasicCalculator)
 - [Etch-A-Sketch](https://github.com/VincentZ-42/Etch-A-Sketch)
@@ -20,7 +21,7 @@
 
 
 ## Projects in C
-- [functional clone of ls command](https://github.com/VincentZ-42/ft_ls)
+
 - [program_clone of printf function](https://github.com/VincentZ-42/ft_printf)
 - [Tetris Map](https://github.com/VincentZ-42/TetrisMap-Fillit-)
 - [Get_Next_Line](https://github.com/VincentZ-42/get_next_line)
