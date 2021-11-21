@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi 👋 Welcome to my Github!
 
-# Academic Projects
-
-| Name | Short Description | Demo link |
+<!-- | Name | Short Description | Demo link |
 | --- | --- | --- |
 | [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker) | | |
 | [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe) | | |
@@ -18,7 +16,7 @@
 | [Basic Calculator](https://github.com/VincentZ-42/BasicCalculator) | [Tetris Map](https://github.com/VincentZ-42/TetrisMap-Fillit-) | |
 | [Etch-A-Sketch](https://github.com/VincentZ-42/Etch-A-Sketch) | [Get_Next_Line](https://github.com/VincentZ-42/get_next_line) | |
 | [Rock Paper Scissors Lizard Spock](https://github.com/VincentZ-42/RPSLS) | [Standard Library in C](https://github.com/VincentZ-42/C-Standard-Libary-Libft-) | |
-| [COVID-19 Survey Form](https://codepen.io/VBlitZen/full/WNvLPNw) | | |
+| [COVID-19 Survey Form](https://codepen.io/VBlitZen/full/WNvLPNw) | | | -->
 
 ## Full Stack Projects
 - [Exercise Tracker](https://github.com/VincentZ-42/Simple_Exercise_Tracker)
