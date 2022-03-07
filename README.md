@@ -40,6 +40,9 @@
 ## Other
 - [Custom Onshape feature: Sprocket](https://github.com/VincentZ-42/Sprocket-Design-with-Onshape-FeatureScript)
 - [PaintBot](https://github.com/VincentZ-42/PaintBot)
+
+## Academic Projects
+- [Loan calculator](https://github.com/VincentZ-42/loan-calculator)
 <!--
 **VincentZ-42/VincentZ-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
