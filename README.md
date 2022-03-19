@@ -44,6 +44,7 @@
 ## Academic Projects
 - [Loan calculator](https://github.com/VincentZ-42/loan-calculator)
 - [Contacts-Manager](https://github.com/VincentZ-42/LaunchSchool/tree/main/js175/contacts)
+- [To-Do List Manager](https://github.com/VincentZ-42/LaunchSchool/tree/main/js175/todo)
 <!--
 **VincentZ-42/VincentZ-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
