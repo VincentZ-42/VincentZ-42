@@ -41,6 +41,7 @@
 ## Other
 - [Custom Onshape feature: Sprocket](https://github.com/VincentZ-42/Sprocket-Design-with-Onshape-FeatureScript)
 - [PaintBot](https://github.com/VincentZ-42/PaintBot)
+- [Epic Test Bot](https://github.com/VincentZ-42/epic-test-bot/tree/main)
 
 ## Academic Projects
 - [Loan calculator](https://github.com/VincentZ-42/loan-calculator)
