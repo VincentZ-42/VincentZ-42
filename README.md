@@ -24,6 +24,7 @@
 - [Employee Data](https://github.com/VincentZ-42/EmployeeData_REST_API)
 
 ## Web Development
+- [FreeCodeCamp Responsive Web Design](https://github.com/VincentZ-42/freecodecamp?tab=readme-ov-file)
 - [Book Tracker](https://github.com/VincentZ-42/Library_BookTracker)
 - [Tic Tac Toe](https://github.com/VincentZ-42/TicTacToe)
 - [Basic Calculator](https://github.com/VincentZ-42/BasicCalculator)
@@ -48,7 +49,6 @@
 - [Contacts-Manager](https://github.com/VincentZ-42/LaunchSchool/tree/main/js175/contacts)
 - [To-Do List Tracker](https://github.com/VincentZ-42/LaunchSchool/tree/main/js175/todo)
 - [Task List Manager](https://github.com/VincentZ-42/Todo-Lists)
-- [FreeCodeCamp Web Responsive](https://github.com/VincentZ-42/freecodecamp?tab=readme-ov-file)
 <!--
 **VincentZ-42/VincentZ-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
